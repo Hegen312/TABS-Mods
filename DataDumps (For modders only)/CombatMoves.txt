@@ -1,5 +1,5 @@
 0
-BlockSlow
+Block
 
 1
 CrowWings
@@ -59,13 +59,13 @@ SpinToWin
 SpinToWin_Mace
 
 20
-SwordArtParry
+Parry
 
 21
-wheelbarrowdragon
+Dragon Costum 
 
 22
-Wings
+Wing
 
 23
 BalloonPack
